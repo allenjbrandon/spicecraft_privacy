@@ -33,7 +33,7 @@ We use industry standard protections for data at rest and in transit. OAuth toke
 
 7. Contact
 
-For questions about this Privacy Policy or data deletion requests, contact: privacy@spicecraft.example.com
+For questions about this Privacy Policy or data deletion requests, contact: spicecraftseasonings@gmail.com
 
 8. Changes to this Policy
 
